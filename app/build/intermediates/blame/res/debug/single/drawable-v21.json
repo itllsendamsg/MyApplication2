@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "Y:\\Cloud\\MEGAsync\\Engineering\\AndroidStudio\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\LandLMM\\.android\\build-cache\\a177f1eb76824783c4fc98c433af6b7031afb60c\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "Y:\\Cloud\\MEGAsync\\Engineering\\AndroidStudio\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\LandLMM\\.android\\build-cache\\a9ba4aac535bac1842ca4e13fac25372ca5416ff\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "Y:\\Cloud\\MEGAsync\\Engineering\\AndroidStudio\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\LandLMM\\.android\\build-cache\\a177f1eb76824783c4fc98c433af6b7031afb60c\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "Y:\\Cloud\\MEGAsync\\Engineering\\AndroidStudio\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\LandLMM\\.android\\build-cache\\a177f1eb76824783c4fc98c433af6b7031afb60c\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "Y:\\Cloud\\MEGAsync\\Engineering\\AndroidStudio\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\LandLMM\\.android\\build-cache\\a177f1eb76824783c4fc98c433af6b7031afb60c\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "Y:\\Cloud\\MEGAsync\\Engineering\\AndroidStudio\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\LandLMM\\.android\\build-cache\\a9ba4aac535bac1842ca4e13fac25372ca5416ff\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "Y:\\Cloud\\MEGAsync\\Engineering\\AndroidStudio\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\LandLMM\\.android\\build-cache\\a9ba4aac535bac1842ca4e13fac25372ca5416ff\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "Y:\\Cloud\\MEGAsync\\Engineering\\AndroidStudio\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\LandLMM\\.android\\build-cache\\a9ba4aac535bac1842ca4e13fac25372ca5416ff\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]
